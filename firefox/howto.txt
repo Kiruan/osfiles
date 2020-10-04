@@ -1,0 +1,3 @@
+create a "chrome" folder in ~/.mozilla/firefox/<profile>
+copy the file in it
+Ensure the config toolkit.legacyUserProfileCustomizations.stylesheets is set to true (https://www.ghacks.net/2019/05/24/firefox-69-userchrome-css-and-usercontent-css-disabled-by-default/)
